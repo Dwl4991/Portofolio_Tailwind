@@ -1,0 +1,23 @@
+{
+  "name": "13ngobar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dwl4991/Portofolio_Tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dwl4991/Portofolio_Tailwind/issues"
+  },
+  "homepage": "https://github.com/Dwl4991/Portofolio_Tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
